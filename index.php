@@ -8,8 +8,8 @@
 <body>
 <div class="sect">
 	<div id="landing-cover">
-		<div class="layer img1"></div>
-		<div class="layer img2"></div>
+		<div class="layer bglayer"></div>
+		<div class="layer frontlayer"></div>
 	</div>
 
 	<div class="overlay">
